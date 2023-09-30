@@ -32,7 +32,7 @@ const Calculator = () => {
   };
 
   return (
-    <div className="w-full max-w-md mx-auto p-4">
+    <div className=" max-w-md mx-auto p-4 lg:w-1/2 xl:w-1/3 ">
       
       <div className=" bg-black rounded-lg p-4 shadow-md">
       <div className="mt-4">
